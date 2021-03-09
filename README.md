@@ -24,7 +24,7 @@ CVS server-side library and its client-side SDKs are designed to accomplish the 
 * Be super low-level API;
 * Support all existing WebRTC endpoints.
 ## Architecture
-![CVS general diagram](https://www.dropbox.com/s/tb0wl9guzpylf8d/CVS%20general%20diagram.png?dl=0)
+![CVS general diagram](https://github.com/CortexVideoServices/Description/blob/main/CVS%20general%20diagram.png)
 ## Features
 * Front-end client library supporting TypeScript and Javascript;
 * Middleware library: Asynchronous Python;
