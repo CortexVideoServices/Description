@@ -3,6 +3,10 @@
 Cortex Video Service (CVS) is an open-source Video API that brings people together globally through interactive live video calls.
 
 CVS makes it easy to build a custom video experience within any mobile, web, or desktop application and is built on the WebRTC industry standard that is available on billions of devices.
+## CVS advantages
+1. Fast build and launch. All the functionality is available out-of-the-box.
+2. There are examples of applications and all the manuals.
+3. Docker files are ready and configured.
 ## CVS features
 * Video: supports all your video use-cases with 1:1 video, group video chat up to 6 participants
 * Voice: Video sessions can be video and voice, voice-only or mixed.
