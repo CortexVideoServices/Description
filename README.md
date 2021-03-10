@@ -1,6 +1,6 @@
 # Cortex Video Service
 ## What is Cortex Video Service?
-CVS is an open-source Video API that brings people together globally through interactive live video calls.
+Cortex Video Service (CVS) is an open-source Video API that brings people together globally through interactive live video calls.
 
 CVS makes it easy to build a custom video experience within any mobile, web, or desktop application and is built on the WebRTC industry standard that is available on billions of devices.
 ## CVS features
